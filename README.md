@@ -1,4 +1,4 @@
-# DarkNet-NNPack-Python-Library
+# DarkNet-NNPack Python Library
 
 A custom library to access DarkNet (NNPack implementation)'s functions without the default python library. This is a quick workaround (which may be considerably dirty) to the issue of the python library not initializing properly, as in [this issue](https://github.com/digitalbrain79/darknet-nnpack/issues/17)
 
